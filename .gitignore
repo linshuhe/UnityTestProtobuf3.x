@@ -1,7 +1,9 @@
 /Logs
 /Library
 .vscode
+.vs
 /Packages
 /Temp
 *.csproj
 *.sln
+
